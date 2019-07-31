@@ -1,0 +1,163 @@
+<!--
+/* comentario */
+/* colorpicker con control+shift+c */
+
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Alfa+Slab+One|Anton|Caveat|Cookie|Libre+Baskerville|Lobster|Merriweather|Patua+One|Permanent+Marker|Roboto+Slab|Satisfy&display=swap');
+
+/*
+font-family: 'Roboto Slab', serif;
+font-family: 'Merriweather', serif;
+
+font-family: 'Anton', sans-serif;
+font-family: 'Lobster', cursive;
+font-family: 'Abril Fatface', cursive;
+font-family: 'Satisfy', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Patua One', cursive;
+font-family: 'Caveat', cursive;
+font-family: 'Alfa Slab One', cursive;
+font-family: 'Cookie', cursive;
+
+*/
+
+
+  body  {
+ font-family: Arial;
+ margin:0px;
+ padding: 0px;
+ position: relative;
+ overflow: hidden;
+ }
+
+#panel_control{
+background-color: #868686;
+color: #bfbfbf;
+}
+#panel_control button{
+background-color: #0dd28c;
+border: 1px solid #595959;
+border-radius: 3px;
+}
+#panel_control input{
+background-color: #868686;
+}
+#id_name_proyect{
+font-size: 1.3em;
+color: #6bd66b;
+border: 0px;
+width: auto;
+}
+#id_name_diapo{
+font-size: 1.3em;
+color: #6bd66b;
+border: 0px;
+width: auto;
+}
+#input_time{
+width: 40px;
+}
+#div_background{
+  width: 100%;
+}
+.buttons_bar{
+position: absolute;
+top: 3px;
+left: 0px;
+width: 400px;
+opacity: 0.4;
+display: none;
+
+}
+.div_texto{
+  position: absolute;
+  display: block;
+  margin: 0px;
+}
+span.text{
+position: relative;
+margin-top: 27px;
+display: block;
+width: max-content;
+}
+
+.div_texto button img {
+    width: 18px;
+    margin: 0px;
+    padding:0px;
+}
+
+
+/* estilos de la funcion de editar texto*/
+#id_change_text{
+  font-size: 1em;
+  margin:0px ;
+  padding:0px;
+  width: auto;
+  background: none;
+  border: 0px;
+  font-family: Arial;
+}
+#buttons_text_operation{
+height: 17px;
+display: block;
+position: relative;
+top: -15px;
+}
+#change_text,#cancel_text {
+  margin: 0px;
+  padding:0px; 
+}
+/* fin estilos de la funcion de editar texto*/
+ 
+
+
+
+ a{
+ 
+  }
+ 
+  header {
+
+  }
+ 
+/* nav */
+  nav {
+
+  }
+  nav ol li {
+  }
+  
+/* main */
+main {
+
+}  
+section {
+}
+
+
+aside  {
+	}
+  
+
+/* footer */
+  footer {
+
+  }
+  address {
+
+  }
+  .copyright{}
+
+
+
+
+/* media for tablet */
+@media screen and (min-width: 600px) and (max-width: 1250px){
+
+
+
+}
+-->
